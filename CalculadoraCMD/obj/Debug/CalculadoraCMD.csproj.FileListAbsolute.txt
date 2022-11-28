@@ -1,0 +1,7 @@
+C:\TI Academy\Aulas C_Sharp\Ideias\CalculadoraCMD\CalculadoraCMD\bin\Debug\CalculadoraCMD.exe.config
+C:\TI Academy\Aulas C_Sharp\Ideias\CalculadoraCMD\CalculadoraCMD\bin\Debug\CalculadoraCMD.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\CalculadoraCMD\CalculadoraCMD\bin\Debug\CalculadoraCMD.pdb
+C:\TI Academy\Aulas C_Sharp\Ideias\CalculadoraCMD\CalculadoraCMD\obj\Debug\CalculadoraCMD.csprojAssemblyReference.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\CalculadoraCMD\CalculadoraCMD\obj\Debug\CalculadoraCMD.csproj.CoreCompileInputs.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\CalculadoraCMD\CalculadoraCMD\obj\Debug\CalculadoraCMD.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\CalculadoraCMD\CalculadoraCMD\obj\Debug\CalculadoraCMD.pdb
